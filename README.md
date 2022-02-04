@@ -19,9 +19,10 @@ An application to write and save note with Express.js back end and will save and
 
 
 ## Screenshots
-![](public/assets/img/Screen Shot 2022-02-04 at 1.18.00 PM.png)
-![](public/assets/img/Screen Shot 2022-02-04 at 1.18.08 PM (2).png)
-![](public/assets/img/Screen Shot 2022-02-04 at 1.18.25 PM (2).png)
+<img src="public/assets/img/Screen Shot 2022-02-04 at 1.18.00 PM.png">
+<img src="public/assets/img/Screen Shot 2022-02-04 at 1.18.08 PM (2).png">
+<img src="public/assets/img/Screen Shot 2022-02-04 at 1.18.25 PM (2).png">
+
 
 
 ## Technologies Use
